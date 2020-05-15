@@ -1,5 +1,5 @@
 import uuidv4 from 'uuid/v4'
-// Add some comment here
+
 let todos = []
 
 // Fetch existing todos from localStorage
